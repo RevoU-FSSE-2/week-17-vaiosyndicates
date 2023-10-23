@@ -1,0 +1,34 @@
+.container {
+  max-width: 100%!important;
+}
+
+.ant-card {
+  width: 30%!important
+}
+.ant-card-head-title {
+  color: whitesmoke;
+}
+.form-error {
+  color:whitesmoke;
+}
+.ant-btn {
+  margin: 5% 5% 0 0;
+}
+.btn-register {
+  background-color: orange!important;
+}
+.btn-add-cat{
+  width: 10%;
+}
+.ant-table-wrapper {
+  padding-top: 2%;
+}
+.ant-table-container {
+  background-color: darkgray;
+}
+.ant-table-tbody{
+  color: floralwhite
+}
+.ant-table-cell-row-hover {
+  background-color: darkgray!important;
+}
